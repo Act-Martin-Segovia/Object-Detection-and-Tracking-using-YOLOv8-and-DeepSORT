@@ -1,0 +1,11 @@
+# Dataset paths
+train: /Users/martinsegovia/Desktop/Object_Detection_and_Tracking/data/images/train
+val: /Users/martinsegovia/Desktop/Object_Detection_and_Tracking/data/images/val
+test: /Users/martinsegovia/Desktop/Object_Detection_and_Tracking/data/images/test
+
+# Class labels
+names:
+  0: vehicle
+
+# Number of classes
+nc: 1
